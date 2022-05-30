@@ -1,5 +1,6 @@
 Hi 👋 My name is Salim Omar
 ===========================
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=1868F7&background=A0DFFF00&lines=Hello+there%2C+welcome+to+my+github;++I'm+Salim+%3A))](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Salim" title="👋 Hi there! I'm Salim"/>
 
 software engineer student
