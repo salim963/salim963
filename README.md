@@ -1,6 +1,6 @@
 Hi 👋 My name is Salim Omar
 ===========================
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=1868F7&background=A0DFFF00&lines=Welcome+to+my+github%2C++I'm+Salim+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=1868F7&background=A0DFFF00&lines=Welcome+to+my+github%2C++I'm+Salim+Omar)](https://git.io/typing-svg)
 
 
 software engineer student
