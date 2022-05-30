@@ -18,7 +18,7 @@ I'm a Software Engineer student from danish technical university. I have experie
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,docker,c,cs,cloudflare,css,discord,dotnet,figma,github,idea,html,java,js,kotlin,linux,mysql,nginx,nodejs,r,react,tensorflow,v,visualstudio,vscode,"/>
   </a>
 </p>
 
