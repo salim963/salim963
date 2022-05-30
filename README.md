@@ -54,8 +54,7 @@ I'm a Software Engineer student from danish technical university. I have experie
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[![Welcome to my github, I'm Salim  ](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20Salim%20%20&title=Welcome%20to%20my%20github)](https://pimp-my-readme.webapp.io)
-
+[![Salim Omar, Welcome to my github :)](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Welcome%20to%20my%20github%20%3A%29&title=Salim%20Omar)](https://pimp-my-readme.webapp.io)
 
 
 
