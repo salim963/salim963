@@ -18,7 +18,7 @@ I'm a Software Engineer student from danish technical university. I have experie
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,c,cs,C#,git,androidstudio,docker,cloudflare,css,discord,dotnet,figma,github,idea,html,js,linux,mysql,nginx,nodejs,r,react,tensorflow,v,visualstudio,vscode,"/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,c,cs,dotnet,mysql,nginx,nodejs,html,css,js,react,linux,docker,r,tensorflow,cloudflare,figma,androidstudio,idea,v,visualstudio,vscode,github,git,discord"/>
   </a>
 </p>
 
