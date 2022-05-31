@@ -51,7 +51,7 @@ I'm a Software Engineer student from danish technical university. I have experie
 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
