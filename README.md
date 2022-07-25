@@ -1,4 +1,4 @@
-Hi 👋 My name is Salim Omar
+Hi 👋, Welcome to my github
 ===========================
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=1868F7&background=A0DFFF00&lines=Welcome+to+my+github%2C++I'm+Salim+Omar)](https://git.io/typing-svg)
 
