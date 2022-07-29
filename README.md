@@ -2,6 +2,9 @@ Hi 👋, Nice to see you here :)
 ===========================
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=1868F7&background=A0DFFF00&lines=Welcome+to+my+github%2C++I'm+Salim+Omar)](https://git.io/typing-svg)
 
+🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍
+<a href="https://salim-o.vercel.app/"  rel="noreferrer" target="_blank">See my portfolio </a>
+
 
 software engineer student
 -------------------------
