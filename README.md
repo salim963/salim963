@@ -41,6 +41,8 @@ I'm a Software Engineer student from danish technical university. I have experie
 
 
 <a href="http://www.github.com/salim963"><img src="https://github-readme-stats.vercel.app/api?username=salim963&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="salim963's GitHub stats" /></a>
+
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=salim963)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
